@@ -1,0 +1,41 @@
+commit f5e9a58f70909f1d6f10516a09672650208d23a5
+Author: Emily Hime <emilyhime@mines.edu>
+Date:   Sun Feb 21 19:57:56 2021 -0700
+
+    The mouth width is now half the face
+
+commit 6cce8c616451cf7657bd6bcc88ace5221f0e48f8
+Author: Alex Belli <alexbelli@Alexs-MacBook-Pro-2.local>
+Date:   Sun Feb 21 19:54:34 2021 -0700
+
+    Mouth height was changed to 50
+
+commit 27f252de7d092fd66fc5b1867823de3b6766723e
+Author: Emily Hime <emilyhime@mines.edu>
+Date:   Sun Feb 21 19:52:38 2021 -0700
+
+    The cat now has a wonky eye(double the eye_seperation)
+
+commit 93c15f4b3ecc5a9fdd0ba622bbfdc78d7d7419aa
+Author: Alex Belli <alexbelli@Alexs-MacBook-Pro-2.local>
+Date:   Sun Feb 21 19:49:45 2021 -0700
+
+    Now the head is light gray
+
+commit 919d6e2ae77b11edad5b9221067ec20ccfc88283
+Author: Emily Hime <emilyhime@mines.edu>
+Date:   Sun Feb 21 19:46:57 2021 -0700
+
+    Now the cat has cyan eyes
+
+commit 62e3f3cb7387cb596ba814312005ec660d039de3
+Author: Alex Belli <alexbelli@Alexs-MacBook-Pro-2.local>
+Date:   Sun Feb 21 19:33:13 2021 -0700
+
+    Now it says Bark
+
+commit 9f81b8552d3742944b0c4dfe48a4066b8355f0a3
+Author: Emily Hime <emilyhime@mines.edu>
+Date:   Thu Feb 18 10:09:52 2021 -0700
+
+    Initial Commit
